@@ -23,41 +23,48 @@ Execute the necessary commands/batch file for the desired output.
 # WINDOWS COMMANDS:
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "my-folder"
-
-## COMMAND AND OUTPUT
-
 Remove the directory "my-folder"
 
+<img width="602" height="117" alt="8 - 1" src="https://github.com/user-attachments/assets/27b39801-7c64-49c7-b24a-55f7c8d321e9" />
+
+
 ## COMMAND AND OUTPUT
-
-
 Create the file Rose.txt
 
+<img width="681" height="368" alt="8 - 2" src="https://github.com/user-attachments/assets/dedafc26-7fe2-4402-ac58-f0f331a482ce" />
+
 ## COMMAND AND OUTPUT
-
-
 Create the file hello.txt using echo and redirection
 
-## COMMAND AND OUTPUT
+<img width="585" height="105" alt="8 - 3" src="https://github.com/user-attachments/assets/bd13fbc0-d597-4461-aa0f-88feea59f8ae" />
 
+## COMMAND AND OUTPUT
 Copy the file hello.txt into the file hello1.txt
 
-## COMMAND AND OUTPUT
+<img width="492" height="71" alt="8 - 4" src="https://github.com/user-attachments/assets/33a56ed8-f2ad-43e7-b16a-eb7e2719d4a1" />
+<img width="392" height="67" alt="8 - 5" src="https://github.com/user-attachments/assets/f13a8873-3e42-482b-82f8-5cf25e1ddae5" />
 
+
+## COMMAND AND OUTPUT
 Remove the file hello1.txt
 
-## COMMAND AND OUTPUT
+<img width="481" height="187" alt="8 - 6" src="https://github.com/user-attachments/assets/016d2e99-e122-447b-be77-bf5ea516014a" />
 
+## COMMAND AND OUTPUT
 List out the file hello1.txt in the current directory
+
+
 
 ## COMMAND AND OUTPUT
 
 List out all the associated file extensions 
+<img width="553" height="960" alt="8 - 7" src="https://github.com/user-attachments/assets/8e81f237-1965-498f-b6de-428bdf6a25cf" />
+
 
 ## COMMAND AND OUTPUT
-
-
 Compare the file hello.txt and rose.txt
+
+<img width="536" height="191" alt="8 - 8" src="https://github.com/user-attachments/assets/e515b3b6-ffca-46a7-8a92-bd716be4015f" />
 
 ## COMMAND AND OUTPUT
 
